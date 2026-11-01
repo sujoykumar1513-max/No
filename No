@@ -1,4 +1,4 @@
 {
   "LockApp": true,
-  "Link": "https://t.me/httpstme_apkmoresk_1"
+  "Link": "https://t.me/capcut_pro_sk"
 }
